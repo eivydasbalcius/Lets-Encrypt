@@ -1,0 +1,9 @@
+C:\Users\EivydasBalcius\source\repos\FirstPancake\Engine\bin\Release\netcoreapp3.1\Engine.deps.json
+C:\Users\EivydasBalcius\source\repos\FirstPancake\Engine\bin\Release\netcoreapp3.1\Engine.dll
+C:\Users\EivydasBalcius\source\repos\FirstPancake\Engine\bin\Release\netcoreapp3.1\Engine.pdb
+C:\Users\EivydasBalcius\source\repos\FirstPancake\Engine\obj\Release\netcoreapp3.1\Engine.csproj.AssemblyReference.cache
+C:\Users\EivydasBalcius\source\repos\FirstPancake\Engine\obj\Release\netcoreapp3.1\Engine.AssemblyInfoInputs.cache
+C:\Users\EivydasBalcius\source\repos\FirstPancake\Engine\obj\Release\netcoreapp3.1\Engine.AssemblyInfo.cs
+C:\Users\EivydasBalcius\source\repos\FirstPancake\Engine\obj\Release\netcoreapp3.1\Engine.csproj.CoreCompileInputs.cache
+C:\Users\EivydasBalcius\source\repos\FirstPancake\Engine\obj\Release\netcoreapp3.1\Engine.dll
+C:\Users\EivydasBalcius\source\repos\FirstPancake\Engine\obj\Release\netcoreapp3.1\Engine.pdb
