@@ -6,4 +6,3 @@ C:\Users\EivydasBalcius\source\repos\FirstPancake\Engine\obj\Debug\netcoreapp3.1
 C:\Users\EivydasBalcius\source\repos\FirstPancake\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.CoreCompileInputs.cache
 C:\Users\EivydasBalcius\source\repos\FirstPancake\Engine\obj\Debug\netcoreapp3.1\Engine.dll
 C:\Users\EivydasBalcius\source\repos\FirstPancake\Engine\obj\Debug\netcoreapp3.1\Engine.pdb
-C:\Users\EivydasBalcius\source\repos\FirstPancake\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.AssemblyReference.cache

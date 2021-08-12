@@ -6,10 +6,15 @@ using Microsoft.Azure.WebJobs;
 using Microsoft.Azure.WebJobs.Extensions.Http;
 using System.Threading.Tasks;
 
+using Microsoft.Rest.Azure.Authentication;
+using Microsoft.Azure.Management.Dns;
+using Microsoft.Azure.Management.Dns.Models;
+
 namespace FirstPancake
 {
     public static class Function1
     {
+
         public static Env Prod { get; private set; }
         public static Env Staging { get; private set; }
 

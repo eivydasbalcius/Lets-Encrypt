@@ -48,6 +48,14 @@
               "target": "Package",
               "version": "[3.0.0, )"
             },
+            "Microsoft.Azure.Management.Dns": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.Azure.Management.ResourceManager": {
+              "target": "Package",
+              "version": "[3.14.0-preview, )"
+            },
             "Microsoft.Azure.Storage.DataMovement": {
               "target": "Package",
               "version": "[2.0.4, )"
@@ -63,6 +71,10 @@
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "Microsoft.Rest.ClientRuntime.Azure.Authentication": {
+              "target": "Package",
+              "version": "[2.4.1, )"
             },
             "System.Security.Cryptography.Pkcs": {
               "target": "Package",
